@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: MathOperationsTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.04 s <<< FAILURE! - in MathOperationsTest
+subTest  Time elapsed: 0.022 s  <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (1 failure)
+	org.opentest4j.AssertionFailedError: expected: <-8> but was: <2>
+	at MathOperationsTest.subTest(MathOperationsTest.java:28)
+
